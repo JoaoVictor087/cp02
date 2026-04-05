@@ -76,4 +76,3 @@ deploy do API: webapp-dimdim-17893.azurewebsites.net
 
 
 [Link do video](www.google.com)
-
