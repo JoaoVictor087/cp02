@@ -75,4 +75,4 @@ Agora o WebApp estará disponível no endereço provido pela Microsoft Azure
 deploy do API: webapp-dimdim-17893.azurewebsites.net
 
 
-[Link do video](www.google.com)
+[Link do video](https://youtu.be/ge-tJTgodnE)
