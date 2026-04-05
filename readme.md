@@ -72,6 +72,8 @@ az webapp deploy --name $WEB_APP_NAME --resource-group $RESOURCE_GROUP --src-pat
 ```
 
 Agora o WebApp estará disponível no endereço provido pela Microsoft Azure
+deploy do API: webapp-dimdim-17893.azurewebsites.net
+
 
 [Link do video](www.google.com)
 
